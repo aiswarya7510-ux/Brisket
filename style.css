@@ -1,0 +1,232 @@
+* {
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+#sec2 {
+    background-image: url(brisket.jpg);
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+
+}
+
+.bx1 {
+    padding: 300px 0px;
+}
+
+
+#sec3 {
+    height: auto;
+    background-image: url(brisket.jpg);
+    background-size: cover;
+
+}
+
+.overlays {
+    background-color: rgba(0, 0, 0, 0.753);
+}
+
+.bx2 {
+    padding: 100px 0px;
+    text-align: center;
+    min-height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.lines,
+.lines1,
+.lines2 {
+    height: 2px;
+    width: 150px;
+    background-color: #b9884d;
+    margin: auto;
+    /* margin-bottom: ; */
+
+}
+
+.lines0 {
+    height: 2px;
+    width: 200px;
+    background-color: #b9884d;
+    margin: auto;
+}
+
+#sec4 {
+    background-image: url(restaurant1.jpg);
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    padding: 200px 0px;
+}
+
+.head {
+    font-size: 60px;
+}
+
+.head1 {
+    font-size: 90px;
+}
+
+.line1,
+.line3 {
+    height: 5px;
+    width: 50%;
+    background-color: white;
+    margin: auto;
+
+}
+
+#sec5 {
+    background-image: url(crushed\ brisket.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 200px 0px;
+
+}
+
+#sec6 {
+
+    background-image: url(chef.jpg);
+    background-size: cover;
+
+}
+
+.bx5 {
+    padding: 100px 0px;
+    text-align: center;
+    min-height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+
+
+
+}
+
+.overlay {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.bx2,
+.bx5,
+.bx8 {
+    font-style: italic;
+}
+
+.spn {
+    font-weight: bold;
+}
+
+.spn1 {
+    font-style: italic;
+}
+
+#sec7 {
+    background-image: url(coffee\ container.jpg);
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.line2 {
+    height: 3px;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.386);
+    margin: auto;
+}
+
+#sec8 {
+    background-image: url(coffee.jpg);
+    background-size: cover;
+    /* height: 500px; */
+    text-align: center;
+    padding: 200px 0px;
+}
+
+#sec9 {
+    background-image: url(family.jpg);
+    background-size: cover;
+}
+
+.bx8 {
+    padding: 100px 0px;
+    text-align: center;
+    min-height: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.overlay1 {
+    background-color: rgba(255, 166, 0, 0.532);
+}
+
+#sec10 {
+    background-image: url(chef2.jpg);
+    background-size: cover;
+    
+    height: 500px;
+    text-align: center;
+    padding: 100px 0px;
+}
+
+#sec11 {
+    background-color: #1f1f1f;
+    padding: auto;
+}
+
+.bx10,
+.bx-10 {
+    margin: 50px 20px;
+   
+
+}
+.bx10{
+    padding: 20px auto;
+
+}
+
+.bx-10 {
+    background-image: url(brisket.jpg);
+    background-size: cover;
+   
+    padding: 20px;
+
+}
+
+.p1 {
+    font-style: italic;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+#sec12 {
+    padding: 0px 100px;
+    background-color: #000000;
+}
+
+.bx11 {
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    background-color: #ae8648;
+}
+
+.btn:hover {
+    background-color: black;
+    color: #ae8648;
+}
+@media(max-width:468px){
+    *{
+        background-position: center center;
+        background-size: 100vw 100vh;
+    }
+}
+
+
